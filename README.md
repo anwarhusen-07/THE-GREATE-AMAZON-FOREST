@@ -1,5 +1,5 @@
 # THE GREATE AMAZON FOREST
- this web project contains information related to amazon forest and river.
+ this web project contains information related to amazon forest and river.high MB videos are not added here
  # look
 ![Screenshot 2024-07-05 173854](https://github.com/anwarhusen-07/THE-GREATE-AMAZON-FOREST/assets/169054843/113125e0-1bf2-43df-a061-63b2880f87a2)
 ![Screenshot 2024-07-05 174024](https://github.com/anwarhusen-07/THE-GREATE-AMAZON-FOREST/assets/169054843/16d7a40b-b356-4a6a-9be6-2f4720061b53)
